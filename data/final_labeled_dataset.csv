@@ -1,0 +1,17 @@
+candidate_text,job_text,match_score,years_experience
+"Anjali Nair is a Machine Learning Engineer with 5 years of experience in Python, PyTorch, TensorFlow, NLP, and AWS.","Looking for a Machine Learning Engineer with experience in Python, NLP, PyTorch, and AWS.",1,5
+"Manish Patel is a Backend Engineer with 6 years of experience in Python, Django, REST APIs, and AWS.","Seeking a Backend Developer with Django, REST API, and AWS knowledge.",1,6
+"Neha Kapoor is a DevOps Engineer with 5 years of experience in CI/CD, Docker, Kubernetes, and AWS cloud infrastructure.","Hiring a DevOps engineer with cloud experience and container orchestration (Kubernetes, Docker).",1,5
+Ravi Kumar is a Software Engineer with 3 years of experience in Python and REST APIs. Recently started learning NLP using spaCy.,Looking for a junior ML engineer with Python and interest in NLP.,0,3
+Riya Jain is a software tester with experience in automation using Python and Selenium.,Need a Python developer for backend API development.,0,3
+Asha Iyer is a high school math teacher with 10 years of experience. Specializes in calculus and education.,"Hiring a Machine Learning Engineer with Python, PyTorch, and NLP background.",0,10
+"Vikram Singh is a content writer with 6 years of experience in creating articles, blogs, and technical documentation.",Looking for a Data Engineer to manage ETL pipelines and write SQL queries.,0,6
+"Deepak is a Machine Learning Engineer with 4 years of experience in PyTorch, NLP, and deployment using AWS. He built ML APIs and optimized training pipelines.","We need an ML Engineer with 3+ years in PyTorch, NLP and cloud deployment experience.",1,4
+"Sonia is a Data Scientist with 6 years of experience in Python, pandas, classification models, and MLflow tracking for experiment logging.",Looking for a data scientist to build and track classification models using MLflow.,1,6
+"Naveen is a full-stack developer with backend focus in Python, fastAPI and NLP applications, working in ML-related microservices.",Hiring a backend engineer to build ML-powered APIs using fastAPI and NLP tools.,1,5
+Meera is a QA engineer who recently took an NLP bootcamp and is exploring Python ML projects.,"Need a Python/NLP engineer, junior level, open to those transitioning from QA.",0,3
+Rajesh is a front-end developer learning ML in his free time with a few mini projects in Scikit-learn.,Hiring junior ML engineers with hands-on experience in Scikit-learn or TensorFlow.,0,2
+"Arun is a cloud engineer with GCP certification, but minimal ML model building experience.",We need a cloud-savvy ML engineer with hands-on modeling experience.,0,4
+"Ramesh is a graphic designer with 8 years in Adobe Suite and visual design, now pivoting to tech.",Looking for ML engineer with experience in PyTorch and data preprocessing.,0,8
+"Divya is a language translator with a background in linguistics, currently freelancing.",Seeking an ML engineer for NLP translation and embedding models.,0,5
+"Alok is a network administrator with certifications in Cisco and Linux, no Python or ML background.",Hiring ML infrastructure engineer with MLflow and deployment experience.,0,7

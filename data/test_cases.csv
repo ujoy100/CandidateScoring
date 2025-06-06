@@ -1,0 +1,6 @@
+candidate_text,job_text,years_experience
+"Aarti is an ML Engineer with 5 years of experience in Scikit-learn, PyTorch, and deployment using Docker and AWS.","We are looking for an experienced ML Engineer with expertise in Scikit-learn, PyTorch and cloud deployment.",5
+"Neeraj is a front-end developer with React and HTML/CSS expertise, looking to shift into ML.",Hiring a machine learning engineer for NLP-based scoring engine using Transformers.,3
+Sita has 7 years of experience in Python and NLP and has worked on embedding models for job matching.,"Join us to build NLP-driven candidate scoring systems using Python, transformers and embedding techniques.",7
+"Tarun is a data analyst with SQL, Tableau, and Excel background, recently completed an ML bootcamp.",We want an ML engineer to design predictive models using PyTorch and serve them using FastAPI.,4
+"Lakshmi is an AI researcher with focus on LLMs, embeddings, LangChain, and vector search using Pinecone.","Hiring an AI engineer to integrate LangChain, Pinecone and OpenAI for document Q&A solutions.",6
