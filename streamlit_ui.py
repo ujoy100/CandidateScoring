@@ -7,7 +7,7 @@ import numpy as np
 
 # Load model and embedder
 model = joblib.load("src/model.joblib")
-embedder = SentenceTransformer("all-MiniLM-L6-v2")
+embedder = SentenceTransformer("all-MiniLM-L6-v2",device="cpu")
 
 # Streamlit UI
 st.set_page_config(page_title="Candidate Match Scoring", layout="centered")
